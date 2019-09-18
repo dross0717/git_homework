@@ -1,0 +1,18 @@
+1. plan a trip
+  1.1 choose a destination
+    1.1.1 research potential destinations
+      1.1.1.1 research on google
+      1.1.1.2 research through conde nast
+    1.1.2 ask friends for location recommendations
+      1.1.2.1 ask X friend for their idea
+    1.2 determine the budget
+      1.2.1 look at current savings
+        1.2.1.1 log into Chase account to see savings
+      1.2.2 map out amount that can be saved by trip
+      1.2.3 get budget tool
+    1.3 determine the method of transportation
+    1.4 determine accomodations
+      1.4.1 research available options
+        1.4.1.1 look on airbnb
+        1.4.1.2 look on booking.com
+          1.4.1.2.1 choose between rooming options 
